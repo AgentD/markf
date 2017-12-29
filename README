@@ -1,0 +1,30 @@
+"How hard can it be to piece together a markov chain that generates
+some usable output?"
+
+"Hold my beer"
+
+*writes small C proram*
+
+"Hmm... can we rework that into an IRC bot?"
+
+*splits up program*
+
+*rewrites part in Golang*
+
+*slapps together horid shell script to process IRC logs*
+
+TADA...
+
+
+...days later...
+
+
+"Can we take a look at the source?"
+
+"Hold my beer"
+
+*removes hard coded NickServ passwords*
+
+*slaps together README*
+
+*throws onto github*
